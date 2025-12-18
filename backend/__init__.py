@@ -1,0 +1,1 @@
+from backend.algorithmes import genetic_algorithm

@@ -1,0 +1,6 @@
+-> how to run the project with no problems : 
+cd "C:\Users\DELL\Downloads\COMPLETE RP project2"       
+>> python -m frontend.main
+
+in case you don't have it in download like me just try to make in genaral:
+cd "your path"  python -m frontend.main
